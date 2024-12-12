@@ -1,4 +1,4 @@
-**PRIVACY POLICY**
+## PRIVACY POLICY
 
   
 
@@ -6,9 +6,6 @@
 
   
 
-  
-
-  
 
 This Privacy Notice for Wersar Development ("**we**," "**us**," or "**our**"), describes how and why we might access, collect, store, use, and/or share ("**process**") your personal information when you use our services ("**Services**"), including when you:
 
@@ -96,15 +93,13 @@ Want to learn more about what we do with any information we collect? [Review the
 
 [12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
 
-  
+
+
+**<a name="infocollect"></a>1\. WHAT INFORMATION DO WE COLLECT?**
 
   
 
-**<a name="iinfocollect"></a>1\. WHAT INFORMATION DO WE COLLECT?**
-
-  
-
-**Personal information you disclose to us**
+**<a name="personalinfo"></a>Personal information you disclose to us**
 
   
 
@@ -142,7 +137,7 @@ Our use of information received from Google APIs will adhere to [Google API Serv
 
   
 
-**2\. HOW DO WE PROCESS YOUR INFORMATION?**
+**<a name="infouse"></a>2\. HOW DO WE PROCESS YOUR INFORMATION?**
 
   
 
@@ -156,7 +151,7 @@ Our use of information received from Google APIs will adhere to [Google API Serv
 
   
 
-**3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
+**<a name="legalbases"></a>3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
 
   
 
@@ -209,9 +204,9 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 *   If the information is publicly available and is specified by the regulations
 
-  
+  whoshare
 
-**4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
+**<a name="whoshare"></a>4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
 
   
 
@@ -225,7 +220,7 @@ We may need to share your personal information in the following situations:
 
   
 
-**5\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+**<a name="inforetain"></a>5\. HOW LONG DO WE KEEP YOUR INFORMATION?**
 
   
 
@@ -253,7 +248,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
   
 
-**7\. WHAT ARE YOUR PRIVACY RIGHTS?**
+**<a name="privacyrights"></a>7\. WHAT ARE YOUR PRIVACY RIGHTS?**
 
   
 
@@ -275,7 +270,7 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
   
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+**<a name="withdrawconsent"></a>Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
 
   
 
@@ -287,7 +282,7 @@ If you have questions or comments about your privacy rights, you may email us at
 
   
 
-**8\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+**<a name="DNT"></a>8\. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
   
 
@@ -299,7 +294,7 @@ California law requires us to let you know how we respond to web browser DNT sig
 
   
 
-**9\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+**<a name="uslaws"></a>9\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
   
 
@@ -444,7 +439,7 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
   
 
-**10\. DO WE MAKE UPDATES TO THIS NOTICE?**
+**<a name="policyupdates"></a>10\. DO WE MAKE UPDATES TO THIS NOTICE?**
 
   
 
@@ -456,7 +451,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
   
 
-**11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+**<a name="contact"></a>11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
 
   
 
@@ -474,7 +469,7 @@ Russia
 
   
 
-**12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+**<a name="request"></a>12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
 
   
 
